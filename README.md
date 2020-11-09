@@ -12,7 +12,7 @@ Richard Stallman<sup>2</sup> used some of the “Gosmacs” code in the developm
 
 <sub>
 <ol>
-<li style="line-height: 1.6">The “Emacs Commune” is a term coined by Richard Stallman for the people who modified and redistributed Emacs code with the condition that they gave back all the extensions that they made.</li>  
+<li>The “Emacs Commune” is a term coined by Richard Stallman for the people who modified and redistributed Emacs code with the condition that they gave back all the extensions that they made.</li>  
   
 <li>Richard Stallman is an American free software movement activist and programmer who launched the GNU Project in 1983.</li>  
 
