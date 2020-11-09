@@ -25,7 +25,7 @@ Originally, Java was designed for interactive television, but it was too advance
 4. It must be executable with high performance.
 5. It must be interpreted, threaded and dynamic.  
 
-Java quickly became very popular after Sun Microsystems released the first public implementation as Java 1.0 in 1996 and most major web browsers incorporated the ability to run Java applets with web pages. Java quickly became one of the most programming languages for software engineers and Java runs on everything from laptops and games consoles to scientific supercomputers.
+Java quickly became very popular after Sun Microsystems released the first public implementation as Java 1.0 in 1996 and most major web browsers incorporated the ability to run Java applets with web pages. Java quickly became one of the most popular programming languages for software engineers and Java runs on everything from laptops and games consoles to scientific supercomputers.
 
 ### The Java Virtual Machine (JVM)
 Portability is one of the most important design goals of Java, meaning that programs written for the Java platform must run similarly on any combination of hardware and operating system with adequate run-time support. Gosling achieved this by designing the platform so that Java language code is compiled to an intermediate representation called Java bytecode, instead of directly to architecture-specific machine code. Java bytecode instructions are analogous to machine code, but they are intended to be executed by a virtual machine written specifically for the host hardware. End users commonly use a Java Runtime Environment installed on their machine for standalone Java applications, or in a web browser for Java applets.
