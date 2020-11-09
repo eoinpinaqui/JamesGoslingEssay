@@ -12,8 +12,10 @@ Richard Stallman<sup>2</sup> used some of the “Gosmacs” code in the developm
 
 <sub>
 <ol>
-<li>The “Emacs Commune” is a term coined by Richard Stallman for the people who modified and redistributed Emacs code with the condition that they gave back all the extensions that they made.</li>
-<li>Richard Stallman is an American free software movement activist and programmer who launched the GNU Project in 1983.</li>
+<li>The “Emacs Commune” is a term coined by Richard Stallman for the people who modified and redistributed Emacs code with the condition that they gave back all the extensions that they made.</li>  
+  
+<li>Richard Stallman is an American free software movement activist and programmer who launched the GNU Project in 1983.</li>  
+
 <li>In 1983 UniPress began selling Gosling Emacs on Unix for $395 and on VMS for $2,500, marketing it as "EMACS–multi-window text editor (Gosling version)".</li>
 </ol>
 </sub>  
