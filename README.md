@@ -39,6 +39,11 @@ Java is at the core of our digital life. It powers many tools which we use in ou
 3. Internet of Things
 4. Machine Learning and Artificial Intelligence
 5. Gaming and Animations
+  
+Here are three examples of impressive projects that use Java: 
+- The Java language is a key pillar in Android, an open-source mobile operating system. Although Android, built on the Linux kernel, is written largely in C, the Android SDK uses the Java language as the basis for Android applications but does not use any of its standard GUI, SE, ME or other established Java standards. The bytecode language supported by the Android SDK is incompatible with Java bytecode and runs on its own virtual machine, optimized for low-memory devices such as smartphones and tablet computers.
+- Minecraft was originally created by Markus "Notch" Persson in the Java programming language. Following several early test versions, it was released as a paid public alpha for personal computers in 2009 before officially releasing in November 2011, with Jens Bergensten taking over development. Minecraft has since been ported to several other platforms and is the best-selling video game of all time, with 200 million copies sold and 126 million monthly active users as of 2020.
+- NASA World Wind is an open-source proprietary software. The program is written in Java and runs on all operating systems the OpenGL stack is implemented for. Initially, the program contains low-resolution maps. When zooming in some areas on the map, high-resolution images are downloaded from NASA servers. The program allows you to select the scale, direction and viewing angle, visible layers, as well as to search by geographical names. The application also has the ability to display the names of geographical objects and political boundaries. NASA World Wind has an extensible architecture. There are GPS plugins for displaying clouds, earthquakes, hurricanes in near real-time, and a number of others.
 
 
 
