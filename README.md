@@ -33,13 +33,12 @@ Portability is a vital component of the Java design, meaning that programs writt
 This clever use of universal bytecode makes porting simple. However, the overhead of interpreting bytecode into machine instructions makes interpreted programs almost always run more slowly than native executables. On November 13th 2006, Sun released much of its JVM as free and open-source software, under the terms of the GNU GPL. On May 8th 2007, Sun finished the process, making all of its JVM’s core code available under free software/open-source distribution terms, aside from a small portion of code to which Sun did not hold the copyright.  
 
 ### The Impact of Java
-Java is at the core of our digital life. It powers many tools which we use in our everyday lives and has influenced the IT industry in a huge way. For instance, Twitter manages over 400 million tweets per day through a reliable infrastructure powered by Java. Netflix handles 2 billion content requests per day with seamless connectivity through Java-based support. Hence, over 12 million developers trust Java for their various assignments and industrial projects, making Java the most used programming language worldwide. These trends are results of Java’s constant effort to upgrade its core libraries to include elements needed for the latest technological challenges. Java has seen constant evolution in terms of its rich set of APIs, frameworks, libraries, IDEs and development tools. Java has an expansive collection of libraries that supports new-age technologies like:  
-  
-- Cloud Computing
-- Big Data
-- Internet of Things
-- Machine Learning and Artificial Intelligence
-- Gaming and Animations
+Java is at the core of our digital life. It powers many tools which we use in our everyday lives and has influenced the IT industry in a huge way. For instance, Twitter manages over 400 million tweets per day through a reliable infrastructure powered by Java. Netflix handles 2 billion content requests per day with seamless connectivity through Java-based support. Hence, over 12 million developers trust Java for their various assignments and industrial projects, making Java the most used programming language worldwide. These trends are results of Java’s constant effort to upgrade its core libraries to include elements needed for the latest technological challenges. Java has seen constant evolution in terms of its rich set of APIs, frameworks, libraries, IDEs and development tools. Java has an expansive collection of libraries that supports new-age technologies like:
+1. Cloud Computing
+2. Big Data
+3. Internet of Things
+4. Machine Learning and Artificial Intelligence
+5. Gaming and Animations
 
 
 
