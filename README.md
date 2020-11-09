@@ -23,7 +23,8 @@ Originally, Java was designed for interactive television, but it was too advance
 2. It must be robust and secure.
 3. It must be architecture-neutral and portable.
 4. It must be executable with high performance.
-5. It must be interpreted, threaded and dynamic.
+5. It must be interpreted, threaded and dynamic.  
+  
 Java quickly became one of the most popular programming languages after Sun Microsystems released the first public implementation as Java 1.0 in 1996 and most major web browsers incorporated the ability to run Java applets within web pages. Today, Java runs on everything from laptops and games consoles to scientific computers.
 
 
