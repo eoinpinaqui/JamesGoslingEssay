@@ -35,11 +35,11 @@ This clever use of universal bytecode makes porting simple. However, the overhea
 ### The Impact of Java
 Java is at the core of our digital life. It powers many tools which we use in our everyday lives and has influenced the IT industry in a huge way. For instance, Twitter manages over 400 million tweets per day through a reliable infrastructure powered by Java. Netflix handles 2 billion content requests per day with seamless connectivity through Java-based support. Hence, over 12 million developers trust Java for their various assignments and industrial projects, making Java the most used programming language worldwide. These trends are results of Java’s constant effort to upgrade its core libraries to include elements needed for the latest technological challenges. Java has seen constant evolution in terms of its rich set of APIs, frameworks, libraries, IDEs and development tools. Java has an expansive collection of libraries that supports new-age technologies like:  
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*•*  Cloud Computing  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*•*	 Big Data  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*•*	 Internet of Things  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*•*	 Machine Learning and Artificial Intelligence  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*•*	 Gaming and Animations  
+- Cloud Computing  
+- Big Data  
+- Internet of Things  
+- Machine Learning and Artificial Intelligence  
+- Gaming and Animations  
 
 
 
