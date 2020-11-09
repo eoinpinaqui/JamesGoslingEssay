@@ -1,6 +1,21 @@
 # James Gosling - Dr. Java
 
 ### Introduction and Background
+Over the summer, I worked as a Software Development Engineering Intern at Amazon Web Services (AWS) for five months. My team often collaborated with other teams across the globe, rushing to complete features to be announced at AWS re:Invent this year. James Gosling led one of these teams. Every engineer that I encountered at AWS revered Gosling as an extremely talented computer scientist, capable of solving problems or enormous complexity. It was not until I looked into Goslings past accomplishments that I realised how justified this admiration was.  
+
+Gosling was born on the 19th of May 1955 in Alberta, Canada. After receiving a Bachelor of Science in Computer Science from the University of Calgary, he went on to continue his studies at Carnegie Mellon University as a graduate student. While working on his doctorate, he built a multi-processor version of Unix for a 16-way computer system and developed various compilers and mail systems. Goslings dissertation, entitled “The Algebraic Manipulation of Constraints”, focussed on the problem of performing constraint satisfaction in an interactive graphical layout system.
+
+
+  
+    
+      
+  
+  
+  
+  
+  
+  
+### Introduction and Background
 Over the summer, I worked as a Software Development Engineering Intern at Amazon Web Service (AWS). My team often collaborated with other teams across the globe, rushing to complete features to be announced at AWS re:Invent this year. James Gosling led one of these teams. Every engineer that I encountered at AWS revered Gosling as an extremely talented computer scientist, capable of solving problems of enormous complexity. It was not until I looked into Goslings past accomplishments that I realised how justified this admiration was.  
   
 Gosling was born on the 19th of May 1955 in Alberta, Canada. After receiving a Bachelor of Science in Computer Science from the University of Calgary, he went on to continue his studies at Carnegie Mellon University as a graduate student. While working on his doctorate, he built a multi-processor version of Unix for a 16-way computer system and developed various compilers and mail systems. Goslings dissertation, entitled "The Algebraic Manipulation of Constraints", focussed on the problem of performing constraint satisfaction in an interactive graphical layout system.  
