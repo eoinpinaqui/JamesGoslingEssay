@@ -10,7 +10,7 @@ Gosling's first contribution to the world of software engineering came in 1981 w
   
 Richard Stallman used some Gosling Emacs code in the initial version of GNU Emacs, rewriting some of the code headed by skull-and-crossbones to make it "…shorter, faster, clearer and more flexible". Gosling later sold "Gosmacs" to UniPress, who then asked Stallman to stop distributing his version of Emacs. Gosling Emacs code was removed entirely from GNU Emacs by version 16.56. These disputes inspired the creation of the first formal license for Emacs, which later became the GNU General Public License, as Congress had introduced copyright for software in 1980.
   
-### The impact of Gosling Emacs
+### The Impact of Gosling Emacs
 While we cannot credit Gosling with the creation of the GPL, we can recognise the role that Gosling Emacs played in the early stages of the license. The original GPL was based on a unification of similar licenses used for early versions of GNU Emacs, the GNU Debugger and the GNU C Compiler. The relationship between the GNU Emacs License and Gosling Emacs is clear, as Stallman created the GNU Emacs License following the removal of Gosling Emacs code in GNU Emacs. These three licenses contained similar provisions to the modern GPL but were specific to each program, rendering them incompatible, despite being the same license. 
   
 Richard Stallman wrote the GPL in 1989 to produce one license that could be used for any project, thus making it possible for many projects to share code. Historically, the GPL license family has been one of the most popular software licenses in the free and open-source software domain. Prominent free software programs licensed under the GPL include the Linux kernel and the GNU Compiler Collection (GCC). 
@@ -26,8 +26,16 @@ Originally, Java was designed for interactive television, but it was too advance
 5. It must be interpreted, threaded and dynamic.  
 
 Java quickly became very popular after Sun Microsystems released the first public implementation as Java 1.0 in 1996 and most major web browsers incorporated the ability to run Java applets with web pages. Java quickly became one of the most popular programming languages for software engineers and Java runs on everything from laptops and games consoles to scientific supercomputers.
-
+  
 ### The Java Virtual Machine (JVM)
 Portability is one of the most important design goals of Java, meaning that programs written for the Java platform must run similarly on any combination of hardware and operating system with adequate run-time support. Gosling achieved this by designing the platform so that Java language code is compiled to an intermediate representation called Java bytecode, instead of directly to architecture-specific machine code. Java bytecode instructions are analogous to machine code, but they are intended to be executed by a virtual machine written specifically for the host hardware. End users commonly use a Java Runtime Environment installed on their machine for standalone Java applications, or in a web browser for Java applets.
   
 This clever use of universal bytecode makes porting simple. However, the overhead of interpreting bytecode into machine instructions makes interpreted programs almost always run more slowly than native executables. On November 13, 2006, Sun released much of its Java virtual machine (JVM) as free and open-source software, under the terms of the GNU General Public License. On May 8, 2007, Sun finished the process, making all of its JVM's core code available under free software/open-source distribution terms, aside from a small portion of code to which Sun did not hold the copyright. 
+  
+### The Impact of Java
+Java is at the core of our digital life. It powers many tools and software, which we use for our daily activities. Java has influenced the IT industry in a very considerable way. For instance, twitter manages over 400 million tweets per day through a reliable infrastructure powered by Java. Netflix handles 2 billion content requests per day with seamless connectivity through java-based support. Hence over 12 million developers trust Java for their various assignments and industrial projects, making java the most used programming language worldwide. These trends are results of Java’s constant effort to upgrade its core libraries to adapt to elements needed for the latest technological challenges. Java has seen constant evolution in terms of its rich set of APIs, Frameworks, Libraries, IDEs, and Development Tools. It has allowed Java to be ready for real-time challenges. Java has a rich collection of libraries that supports new-age technologies like:
+- Cloud Computing
+- Big Data
+- Internet of Things 
+- Machine Learning and Artificial Intelligence
+- Gaming and Animations
