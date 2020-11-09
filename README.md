@@ -8,14 +8,21 @@ Gosling was born on the 19th of May 1955 in Alberta, Canada. After receiving a B
 ### The Beginning: Gosling Emacs
 Gosling’s first major contribution to the world of software engineering came in 1981 when he created Gosling Emacs. Gosling Emacs, or "Gosmacs", is a discontinued Emacs implementation written in C. Initially, Gosling permitted the free distribution of "Gosmacs", as was required by the "Emacs Commune"<sup>[1](#myfootnote1)</sup> in the 1980s. Engineers admired "Gosmacs" for its unique display code that used a sophisticated dynamic programming technique that solved the classical string-to-string correction problem. This algorithm was so complex that it was headed by a skull-and-crossbones in ASCII art to warn other engineers that even if they thought they understood how it worked, they probably did not. For a while, "Gosmacs" was the de facto Unix Emacs editor.  
 
-Richard Stallman<sup>[2](#myfootnote2)</sup> used some of the "Gosmacs" code in the development of the initial version of GNU Emacs, rewriting some of the display code headed by skull-and-crossbones to make it "…shorter, faster, clearer and more flexible". Gosling later sold "Gosmacs" to UniPress,<sup>[3](#myfootnote3)</sup> who then asked Stallman to stop distributing his version of Emacs for Unix. Following this, Richard Stallman removed all the "Gosmacs" code entirely from GNU Emacs by version 16.56.  These disputed inspired Stallman to create the first formal license for Emacs, as Congress had introduced copyright for software in 1980.
+Richard Stallman<sup>[2](#myfootnote2)</sup> used some of the "Gosmacs" code in the development of the initial version of GNU Emacs, rewriting some of the display code headed by skull-and-crossbones to make it "…shorter, faster, clearer and more flexible". Gosling later sold "Gosmacs" to UniPress,<sup>[3](#myfootnote3)</sup> who then asked Stallman to stop distributing his version of Emacs for Unix. Following this, Richard Stallman removed all the "Gosmacs" code entirely from GNU Emacs by version 16.56.  These disputed inspired Stallman to create the first formal license for Emacs, as Congress had introduced copyright for software in 1980.  
+
+### The Impact of Gosling Emacs
+In 1989, Richard Stallman wrote the GNU General Public License (GPL) to produce one license that could be used for any project. The original was based on a unification of similar licenses for early versions of the GNU Debugger, the GNU C Compiler and the GNU Emacs. While we cannot credit Gosling with the creation of the GPL, we can recognise the role that "Gosmacs" played in the early stage of the license. The relationship between the GNU Emacs License and "Gosmacs" is clear, as Stallman created the GNU Emacs License following the aforementioned disputes from UniPass.  
+
+The three licenses listed above contained similar provisions to the modern GPL but were specific to each program. This made the licenses incompatible, despite being basically the same license. Historically, the GPL license family has been one of the most popular software licenses in the free and open-source software<sup>[4](#myfootnote4)</sup> domain. Examples of prominent free software programs licensed under the GPL include the Linux kernel and the GNU Compiler Collection (GCC). It is salient that Gosling made an impact on the GPL, as "Gosmacs" is the reason for one of the original licenses that the GPL is based on. 
 
   -----
 <a name="myfootnote1">1</a>: The “Emacs Commune” is a term coined by Richard Stallman for the people who modified and redistributed Emacs code with the condition that they gave back all the extensions that they made.
   
-<a name="myfootnote2">2</a>: Richard Stallman is an American free software movement activist and programmer who launched the GNU Project in 1983. 
-
+<a name="myfootnote2">2</a>: Richard Stallman is an American free software movement activist and programmer who launched the GNU Project in 1983.
+  
 <a name="myfootnote3">3</a>: In 1983 UniPress began selling Gosling Emacs on Unix for $395 and on VMS for $2,500, marketing it as "EMACS–multi-window text editor (Gosling version)".
+  
+<a name="myfootnote4">4</a>: Free and open-source software (FOSS) is software that can be classified as both free software and open-source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software.  This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users.
 
   -----
   
