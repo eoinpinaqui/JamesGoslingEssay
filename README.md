@@ -16,12 +16,12 @@ While we cannot credit Gosling with the creation of the GPL, we can recognise th
 Richard Stallman wrote the GPL in 1989 to produce one license that could be used for any project, thus making it possible for many projects to share code. Historically, the GPL license family has been one of the most popular software licenses in the free and open-source software domain. Prominent free software programs licensed under the GPL include the Linux kernel and the GNU Compiler Collection (GCC). 
   
 ### The Java Programming Language
-Goslings greatest contribution to software engineering and computer science is the creation of the Java programming language. Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers “write once, run anywhere”, meaning  that compiled Java code can run on all platforms that support Java without the need for recompilation.
+Goslings greatest contribution to software engineering and computer science is the creation of the Java programming language. Java was originally developed by Gosling at Sun Microsystems and released 1995 as a core component of Sun Microsystems’ Java platform. Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers “write once, run anywhere”, meaning  that compiled Java code can run on all platforms that support Java without the need for recompilation. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them.
   
-Java was originally designed for interactive television, but it was too advanced for the digital cable television industry at the time. Initially, the language was called Oak after an oak tree that stood outside Gosling’s office. There were five primary goals in the creation of the Java language:
+Originally, Java was designed for interactive television, but it was too advanced for the digital cable television industry at the time. Initially, the language was called Oak after an oak tree that stood outside Gosling’s office. There were five primary goals in the creation of the Java language:
 1. It must be simple, object-oriented, and familiar.
 2. It must be robust and secure.
 3. It must be architecture-neutral and portable.
 4. It must be executable with high performance.
 5. It must be interpreted, threaded and dynamic.  
-Java quickly became very popular after Sun Microsystems released the first public implementation as Java 1.0 in 1996 and most major web browsers incorporated the ability to run Java applets with web pages.
+Java quickly became very popular after Sun Microsystems released the first public implementation as Java 1.0 in 1996 and most major web browsers incorporated the ability to run Java applets with web pages. Java quickly became one of the most programming languages for software engineers and Java runs on everything from laptops and games consoles to scientific supercomputers.
