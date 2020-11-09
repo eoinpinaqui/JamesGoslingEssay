@@ -11,9 +11,12 @@ Gosling’s first major contribution to the world of software engineering came i
 Richard Stallman[^2] used some of the “Gosmacs” code in the development of the initial version of GNU Emacs, rewriting some of the display code headed by skull-and-crossbones to make it “…shorter, faster, clearer and more flexible”. Gosling later sold “Gosmacs” to UniPress,[^3] who then asked Stallman to stop distributing his version of Emacs for Unix. Following this, Richard Stallman removed all the “Gosmacs” code entirely from GNU Emacs by version 16.56.  These disputed inspired Stallman to create the first formal license for Emacs, as Congress had introduced copyright for software in 1980.
 
 <sub>
-1: The “Emacs Commune” is a term coined by Richard Stallman for the people who modified and redistributed Emacs code with the condition that they gave back all the extensions that they made.   
-2: Richard Stallman is an American free software movement activist and programmer who launched the GNU Project in 1983. 
-3: In 1983 UniPress began selling Gosling Emacs on Unix for $395 and on VMS for $2,500, marketing it as "EMACS–multi-window text editor (Gosling version)"
+1: The “Emacs Commune” is a term coined by Richard Stallman for the people who modified and redistributed Emacs code with the condition that they gave back all the extensions that they made.  
+  
+2: Richard Stallman is an American free software movement activist and programmer who launched the GNU Project in 1983.  
+
+3: In 1983 UniPress began selling Gosling Emacs on Unix for $395 and on VMS for $2,500, marketing it as "EMACS–multi-window text editor (Gosling version)"  
+
 </sub>  
   -----
   
