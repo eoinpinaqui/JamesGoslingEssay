@@ -15,6 +15,18 @@ In 1989, Richard Stallman wrote the GNU General Public License (GPL) to produce 
 
 The three licenses listed above contained similar provisions to the modern GPL but were specific to each program. This made the licenses incompatible, despite being basically the same license. Historically, the GPL license family has been one of the most popular software licenses in the free and open-source software<sup>[4](#myfootnote4)</sup> domain. Examples of prominent free software programs licensed under the GPL include the Linux kernel and the GNU Compiler Collection (GCC). It is salient that Gosling made an impact on the GPL, as "Gosmacs" is the reason for one of the original licenses that the GPL is based on. 
 
+### The Java Programming Language
+Without a doubt, Goslings greatest contribution to software engineering and computer science is the creation of the Java programming language. Java was originally developed by Gosling at Sun Microsystems<sup>[5](#myfootnote5)</sup> and released in 1995 as a core component of Sun Microsystems’ Java platform. Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers "write once, run anywhere", meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java syntax is like C and C++ but has fewer low-level facilities than either of them.
+  
+Originally, Java was designed for interactive television, but it was too advanced for the digital cable television industry at the time. Initially, the language was called Oak, after an oak tree that stood outside Gosling’s office. There were five primary goals in the creation of the Java programming language:
+1. It must be simple, object-oriented, and familiar.
+2. It must be robust and secure.
+3. It must be architecture-neutral and portable.
+4. It must be executable with high performance.
+5. It must be interpreted, threaded and dynamic.
+Java quickly became one of the most popular programming languages after Sun Microsystems released the first public implementation as Java 1.0 in 1996 and most major web browsers incorporated the ability to run Java applets within web pages. Today, Java runs on everything from laptops and games consoles to scientific computers.
+
+
   -----
 <a name="myfootnote1">1</a>: The “Emacs Commune” is a term coined by Richard Stallman for the people who modified and redistributed Emacs code with the condition that they gave back all the extensions that they made.
   
@@ -23,6 +35,8 @@ The three licenses listed above contained similar provisions to the modern GPL b
 <a name="myfootnote3">3</a>: In 1983 UniPress began selling Gosling Emacs on Unix for $395 and on VMS for $2,500, marketing it as "EMACS–multi-window text editor (Gosling version)".
   
 <a name="myfootnote4">4</a>: Free and open-source software (FOSS) is software that can be classified as both free software and open-source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software.  This is in contrast to proprietary software, where the software is under restrictive copyright licensing and the source code is usually hidden from the users.
+  
+<a name="myfootnote5">5</a>: Sun Microsystems, Inc. was an American company that sold computers, computer components, software, and information technology services. On April 20, 2009, it was announced that Oracle Corporation would acquire Sun for $7.4 billion. The deal was completed on January 27, 2010. 
 
   -----
   
