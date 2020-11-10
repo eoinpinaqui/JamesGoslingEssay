@@ -47,7 +47,15 @@ Here are three examples of impressive projects that use Java:
 
 ### Conclusion
 
-
+-----
+### Bibliography
+- James Gosling FAQs 2020- Facts, Rumors and the latest Gossip: http://www.vipfaq.com/James%20Gosling.html
+- Oral Historyof James Gosling, part 1 of 2: https://archive.computerhistory.org/resources/access/text/2019/10/102781080-05-01-acc.pdf
+- The GNU Operating System - GNU project - Free Software Foundation: https://www.gnu.org/gnu/gnu.html
+- LEARNING JAVA PART – 1 – CodeLearn: https://learnhowtocodefromscratch.wordpress.com/2020/10/21/learning-java-part-1/
+- What is Java? | Lenovo Ireland: https://www.lenovo.com/ie/en/faqs/pc-life-faqs/what-is-java/
+- What is the JVM? Introducing the Java Virtual Machine | InfoWorld: https://www.infoworld.com/article/3272244/what-is-the-jvm-introducing-the-java-virtual-machine.html
+- Java at 20: How it changed programming forever | InfoWorld: https://www.infoworld.com/article/2923773/java-at-20-how-java-changed-programming-forever.html
 
 
 
