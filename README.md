@@ -49,6 +49,7 @@ Here are three examples of impressive projects that use Java:
 
 ### Conclusion
 
+
 -----
 ### Bibliography
 Hsu, Hansen, and Marc Weber. Oral History of James Gosling, Part 1 of 2. 5 Mar. 2019.  
