@@ -48,7 +48,7 @@ Here are three examples of impressive projects that use Java:
 - NASA World Wind is proprietary, open-source software. This project is written and Java and uses the OpenFL stack. When a user starts the program, low-resolution maps are displayed. The user can then zoom in to different areas on the map, where high-resolution images are downloaded from NASA servers. This program gives the user a lot of control, allowing them to select the scale, direction and viewing angle, as well as search by geographical names.GPS plugins also exist for displaying weather features such as clouds and hurricanes in real-time.
 
 ### Conclusion
-
+It is clear from my above arguments that Gosling is a crucial software engineer whose contributions to the field have impacted future engineers for generations. Java technology is unparalleled, now running in over 1.5 billion devices worldwide. Working alongside James Gosling at AWS was an incredible experience that taught me so much about problem-solving and leadership. It is an opportunity that I will likely never have again.
 
 -----
 ### Bibliography
