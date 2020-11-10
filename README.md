@@ -51,12 +51,18 @@ Here are three examples of impressive projects that use Java:
 
 -----
 ### Bibliography
-- Hsu, Hansen, and Marc Weber. Oral History of James Gosling, Part 1 of 2. 5 Mar. 2019.
-- "The GNU Operating System- GNU Project - Free Software Foundation." Gnu.org, 2014, www.gnu.org/gnu/gnu.html. Accessed 9 Nov. 2020.
-- "LEARNING JAVA PART – 1." CodeLearn, 21 Oct. 2020, learnhowtocodefromscratch.wordpress.com/2020/10/21/learning-java-part-1/. Accessed 9 Nov. 2020.
-- "What Is Java? | Lenovo Ireland." www.Lenovo.com, www.lenovo.com/ie/en/faqs/pc-life-faqs/what-is-java/. Accessed 10 Nov. 2020.
-- Tyson, Matthew. “What Is the JVM? Introducing the Java Virtual Machine.” InfoWorld, 17 Jan. 2020, www.infoworld.com/article/3272244/what-is-the-jvm-introducing-the-java-virtual-machine.html. Accessed 9 Nov. 2020.
-- Harold, Elliotte Rusty. "Java at 20: How It Changed Programming Forever." InfoWorld, 21 May 2015, www.infoworld.com/article/2923773/java-at-20-how-java-changed-programming-forever.html. Accessed 9 Nov. 2020.
+Hsu, Hansen, and Marc Weber. Oral History of James Gosling, Part 1 of 2. 5 Mar. 2019.  
+
+"The GNU Operating System- GNU Project - Free Software Foundation." Gnu.org, 2014, www.gnu.org/gnu/gnu.html. Accessed 9 Nov. 2020.  
+
+"LEARNING JAVA PART – 1." CodeLearn, 21 Oct. 2020, learnhowtocodefromscratch.wordpress.com/2020/10/21/learning-java-part-1/. Accessed 9 Nov. 2020.  
+
+"What Is Java? | Lenovo Ireland." www.Lenovo.com, www.lenovo.com/ie/en/faqs/pc-life-faqs/what-is-java/. Accessed 10 Nov. 2020.  
+
+Tyson, Matthew. “What Is the JVM? Introducing the Java Virtual Machine.” InfoWorld, 17 Jan. 2020, www.infoworld.com/article/3272244/what-is-the-jvm-introducing-the-java-virtual-machine.html. Accessed 7 Nov. 2020.  
+
+Harold, Elliotte Rusty. "Java at 20: How It Changed Programming Forever." InfoWorld, 21 May 2015, www.infoworld.com/article/2923773/java-at-20-how-java-changed-programming-forever.html. Accessed 8 Nov. 2020.  
+
 
 
 
