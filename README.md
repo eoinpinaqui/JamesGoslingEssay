@@ -1,5 +1,9 @@
 # James Gosling - Dr. Java
 
+<img src="https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2011/03/29/79697-james-gosling-the-father-of-java.jpg"
+     alt="James Gosling"
+     style="margin: 0 auto" />
+
 ### Introduction and Background
 Over the summer, I worked as a Software Development Engineering Intern at Amazon Web Services (AWS) for five months. My team often collaborated with other teams across the globe, rushing to complete features to be announced at AWS re:Invent this year. James Gosling led one of these teams. Every engineer that I encountered at AWS revered Gosling as an extremely talented computer scientist, capable of solving problems of enormous complexity. It was not until I looked into Goslings past accomplishments that I realised how justified this admiration was.  
 
