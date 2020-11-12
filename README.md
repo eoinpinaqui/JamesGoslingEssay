@@ -1,5 +1,3 @@
-# James Gosling - Dr. Java
-
 <img src="gosling.png"
      alt="James Gosling"
      style="margin: 0 auto" />
