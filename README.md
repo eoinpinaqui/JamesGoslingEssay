@@ -1,7 +1,7 @@
 # James Gosling - Dr. Java
 
 <div style="width: 100%">
-<img src="https://venturebeat.com/wp-content/uploads/2011/08/james-gosling.jpg?fit=400%2C273&strip=all"
+<img src="james.PNG"
      alt="James Gosling"
      style="margin: 0 auto" />
 </div>
