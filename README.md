@@ -60,7 +60,7 @@ Here are three examples of impressive projects that use Java:
 It is clear from my above arguments that Gosling is a crucial software engineer whose contributions to the field have impacted future engineers for generations. Java technology is unparalleled, now running in over 1.5 billion devices worldwide. Working alongside James Gosling at AWS was an incredible experience that taught me so much about problem-solving and leadership. It is an opportunity that I will likely never have again.
 
 -----
-### Bibliography
+### Sources
 Hsu, Hansen, and Marc Weber. Oral History of James Gosling, Part 1 of 2. 5 Mar. 2019. https://www.youtube.com/watch?v=TJ6XHroNewc&t=11040s  
 
 Hsu, Hansen, and Marc Weber. Oral History of James Gosling, Part 2 of 2. 5 Mar. 2019. https://www.youtube.com/watch?v=LaJtYHvpa68  
