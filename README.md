@@ -1,6 +1,6 @@
 # James Gosling - Dr. Java
 
-<img src="https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2011/03/29/79697-james-gosling-the-father-of-java.jpg"
+<img src="https://venturebeat.com/wp-content/uploads/2011/08/james-gosling.jpg?fit=400%2C273&strip=all"
      alt="James Gosling"
      style="margin: 0 auto" />
 
